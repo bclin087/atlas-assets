@@ -1,4 +1,5 @@
-[
+{
+  "assets":[
   {
     "hash": "0xbe51499b41fea82851358d53ffaab33fb2ce1a1156a313e408b00f1000449427",
     "companyName": "Apple Inc",
@@ -15,3 +16,4 @@
     "country": "Taiwan"
   }   
 ]
+}
