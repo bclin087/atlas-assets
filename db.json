@@ -1,4 +1,22 @@
 {
+  "auctions": [
+    {
+      "id": 1,
+      "title": "Top Game Studios"
+    },
+    {
+      "id": 2,
+      "title": "Space Equipments"
+    },
+    {
+      "id": 3,
+      "title": "Car Accessories"
+    },
+    {
+      "id": 4,
+      "title": "Cool Stuff"
+    }
+  ],
   "assets":[
   {
     "hash": "0xbe51499b41fea82851358d53ffaab33fb2ce1a1156a313e408b00f1000449427",
@@ -11,9 +29,24 @@
     "country": "USA"
   },
   {
-    "hash": "0xf7cd9cbbf2931d8926cb80fe70dc785cc47c6d87f96a2035f1096a02334d0a8e",
+    "hash": "0x382b54723221a00a7fd2968ca4988d09d5fa05023bfec7c2c8048f2b75edc4b2",
     "companyName": "AtlasBay,Taiwan",
     "country": "Taiwan"
-  }   
+  },
+  {
+    "hash": "0x62fc5700be410eabdb16fafc911ef4931eac3b05da1faae3f344d13e9e9b93e1",
+    "companyName": "XYZ Company,USA",
+    "country": "USA"
+  },
+  {
+    "hash": "0x6a06795ecb677680f9ffef7b87d3402d4d5d523ef37e040f9bb6327ac401b225",
+    "companyName": "California Superman Office,USA",
+    "country": "USA"
+  },   
+  {
+    "hash": "0x6db3282c1f8db157dc94e713fb42e01688f9acc6c9e610f8d4f92c504be9078f",
+    "companyName": "Taipei 101 Building Inc,Taiwan",
+    "country": "Taiwan"
+  }
 ]
 }
